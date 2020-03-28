@@ -1,0 +1,92 @@
+@charset "utf-8";
+body {	background-color: #004000;	color: #D3D3D3;	text-decoration: none;}
+
+/* CSS Document */
+
+#top {	height: 60px;	width: 99%;	background-color: #002200;	border-top-style: none;	border-right-style: none;	border-bottom-style: none;
+	border-left-style: none;	margin-right: auto;	margin-left: auto;}
+#top-pc {	display:none}
+#pc_name {	color: #D3D3D3;	float: left;	height: 45px;	text-align: left;	line-height: 45px;	width: 20px;}
+#fabu {display:none}
+#bbs {	float: right;	text-align: center;	font-size: 1em;	line-height: 60px;	height: 60px;	padding-right: 20px;}
+#top #bbs a:link {	font-size: 14px;	color: #D3D3D3;	text-decoration: none;}
+#top-pc #bbs a:link {	font-size: 14px;	color: #D3D3D3;	text-decoration: none;}
+
+#top #bbs a:hover {	font-size: 1.2em;	color: #D3D3D3;	text-decoration: none;}
+#top-pc #bbs a:hover {	font-size: 14px;	color: #D3D3D3;	text-decoration: none;}
+
+#top #bbs a:visited {	color: #D3D3D3;	text-decoration: none;}
+#top-pc #bbs a:visited {	color: #D3D3D3;	text-decoration: none;}
+
+.mobile_name {	height: 60px;	line-height: 60px;	font-size: 1.2em;	float: left;}
+.newurl_m {	width: 98%;	position: relative;	height: 40px;	margin-right: auto;	margin-left: auto;	text-align: center;	line-height: 40px;	margin-top: 5px;
+	margin-bottom: 8px;	border: thin solid #999;	font-size: 1.20em;}
+.newurl {	display:none}
+.ad {	width: 98%;	position: relative;	height: 40px;	margin-right: auto;	margin-left: auto;	text-align: center;	line-height: 40px;	margin-top: 5px;
+	margin-bottom: 8px;	border: thin solid #999;	font-size: 1.20em;}
+.ad-pc {	display:none}
+.dibu {	display:none}
+.dibu_m {	width: 98%;	position: relative;	height: 40px;	margin-right: auto;	margin-left: auto;	text-align: center;	line-height: 40px;	margin-top: 5px;
+	margin-bottom: 8px;	border: thin solid #999;	font-size: 1.00em;}
+.dibu_m a{	color: #ff6f00;}
+.dibu_m a:hover{	color: #fff;}
+
+
+.tuijian {	width: 98%;	margin-right: auto;	margin-left: auto;	height: 18em;	margin-top: 0.5em;	margin-bottom: 0.5em;}
+
+.huang {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #D5D500;}
+.lv {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #00C400;}
+
+.hong {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #D50000;}
+.fen {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #F0F;}
+.bai {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #fff;}
+.lan {	float: left;	width: 31.3%;	text-align: center;	overflow: hidden;	margin-top: 0.2em;	margin-right: 1%;
+	margin-bottom: 0.2em;	margin-left: 1%;	background-color: #002200;	height: 2.5em;	text-decoration: none;
+	line-height: 2.5em;	color: #5151FF;}
+
+
+
+.huang a{	color: #D5D500;}
+.lv a{	color: #00C400;}
+.hong a{	color: #D50000;}
+.fen a{	color: #F0F;}
+.bai a{	color: #CCC;}
+.lan a{	color: #5151FF;}
+
+
+.C_1 {	height: 90px;	width: 98%;	margin-right: auto;	margin-left: auto;	margin-top: 10px;}
+.C_2 {	height: 200px;	width: 98%;	margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_3 {	height: 270px;	width: 98%;margin-right: auto;	margin-left: auto;	margin-top: 10px;}
+.C_4 {	height: 270px;	width: 98%;margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_5 {	height: 690px;	width: 98%;	margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_6 {	height: 110px;	width: 98%;	margin-right: auto;	margin-left: auto;	margin-top: 10px;}
+.C_7 {	height: 500px;	width: 98%;margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_8 {	height: 200px;	width: 98%;margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_9 {	height: 190px;	width: 98%;margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+.C_10 {	height: 150px;	width: 98%;	margin-right: auto;	margin-left: auto;	margin-top: 20px;}
+
+
+
+
+.C_top {	height: 40px;	width: 100%;	background-color: #002200;}
+.C_list {	height: auto;	width: 100%;}
+.C_name {	line-height: 40px;	float: left;	height: 40px;	width: auto;	padding-left: 20px;	font-size: 1.2em;}
+
+.url {	float: left;	height: 30px;	width: 33%;	text-align: left;	line-height: 25px;	color: #D3D3D3;	text-decoration: none;
+	margin-top: 10px;	overflow: hidden;	font-size: 1.0em;	text-indent: 1em;}
+.url a {	color: #D3D3D3;	text-decoration: none;} 
+.url a:hover{color: #ff9f16; height:33px;font-size: 1.1em;  }
+
+.url_hot{	float: left;	height: 27px;	width: 33%;	text-align: center;	line-height: 25px;	color: #F00;	text-decoration: none;
+	margin-top: 10px;	overflow: hidden;	font-size: 1em;	font-weight: bold;}
+.url_hot a {	color: #F00;	text-decoration: none;}
